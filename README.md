@@ -5,6 +5,7 @@
 ### Author: Alvian Joseph
 
 ### Links and Resources
+* [link to middleware lab](https://github.com/alvian-401-advanced-javascript/lab-07--middleware)
 * [submission PR](https://github.com/alvian-401-advanced-javascript/lab-07-api-server)
 * [![Build Status](https://www.travis-ci.com/alvian-401-advanced-javascript/lab-07-api-server.svg?branch=master)](https://www.travis-ci.com/alvian-401-advanced-javascript/lab-07-api-server)
 
